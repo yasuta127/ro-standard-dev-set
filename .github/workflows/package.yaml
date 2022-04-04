@@ -2,7 +2,7 @@ name: Export Package
 
 on:
   pull_request: {}
-  push: { branches: [main] }
+  push: { branches: [upm] }
 
 env:
   UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
