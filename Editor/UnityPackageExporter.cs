@@ -1,7 +1,7 @@
 using System.IO;
 using UnityEditor;
 
-namespace RoStandardDevSet.Editor
+namespace RoDevSet.Standard.Editor
 {
     public static class UnityPackageExporter
     {
