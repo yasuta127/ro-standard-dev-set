@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace RoStandardDevSet.Tests
+namespace RoDevSet.Standard.Tests
 {
     public class FooMonoBehaviour : MonoBehaviour
     {

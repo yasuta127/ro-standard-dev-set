@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace RoStandardDevSet
+namespace RoDevSet.Standard
 {
     public static class UnityObjectUtil
     {
