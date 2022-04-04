@@ -1,8 +1,8 @@
 {
-    "name": "net.room127.standarddevset",
-    "version": "0.1.0",
-    "displayName": "Room127 Standard Dev Set",
-    "description": "Collection of useful scripts",
-    "license": "MIT",
-    "unity": "2020.3"
+  "name": "net.room127.standarddevset",
+  "version": "0.2.0",
+  "displayName": "Room127 Standard Dev Set",
+  "description": "Collection of useful scripts",
+  "license": "MIT",
+  "unity": "2020.3"
 }
