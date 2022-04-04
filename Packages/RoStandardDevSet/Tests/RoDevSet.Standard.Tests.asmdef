@@ -1,6 +1,6 @@
 {
-    "name": "RoStandardDevSet.Tests",
-    "rootNamespace": "RoStandardDevSet",
+    "name": "RoDevSet.Standard.Tests",
+    "rootNamespace": "RoDevSet.Standard",
     "references": [
         "GUID:27619889b8ba8c24980f49ee34dbb44a",
         "GUID:028b8213012c944c7ad83e03ecaaf981"

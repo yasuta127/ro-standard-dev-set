@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.Assertions;
 using UnityEngine.TestTools;
 
-namespace RoStandardDevSet.Tests
+namespace RoDevSet.Standard.Tests
 {
     public class UnityObjectUtilTest
     {

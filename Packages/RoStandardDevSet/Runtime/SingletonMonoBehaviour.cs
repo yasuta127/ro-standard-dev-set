@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace RoStandardDevSet
+namespace RoDevSet.Standard
 {
     public abstract class SingletonMonoBehaviour<T> : MonoBehaviour where T : MonoBehaviour
     {

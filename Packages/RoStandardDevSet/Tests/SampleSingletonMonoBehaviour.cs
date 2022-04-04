@@ -1,4 +1,4 @@
-namespace RoStandardDevSet.Tests
+namespace RoDevSet.Standard.Tests
 {
     public class SampleSingletonMonoBehaviour : SingletonMonoBehaviour<SampleSingletonMonoBehaviour>
     {

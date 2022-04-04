@@ -31,7 +31,7 @@ jobs:
         uses: game-ci/unity-builder@v2
         with:
           unityVersion: 2020.3.30f1 # Secretsに登録したULFのUnityバージョン
-          buildMethod: RoStandardDevSet.Editor.UnityPackageExporter.Export # 名前空間を含むエクスポート関数の名前
+          buildMethod: RoDevSet.Standard.Editor.UnityPackageExporter.Export # 名前空間を含むエクスポート関数の名前
 
       # Upload
       - name: Upload .unitypackage

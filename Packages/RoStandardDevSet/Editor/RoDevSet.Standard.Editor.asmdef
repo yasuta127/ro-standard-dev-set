@@ -1,8 +1,10 @@
 {
-    "name": "RoStandardDevSet",
-    "rootNamespace": "RoStandardDevSet",
+    "name": "RoDevSet.Standard.Editor",
+    "rootNamespace": "RoDevSet.Standard",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
